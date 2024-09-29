@@ -1,0 +1,11 @@
+:root {
+  --bg: #b9b1b1;
+  --dark: hsl(270, 1%, 27%);
+  --dark-sea: #868585;
+  --grey: rgb(25, 24, 24);
+  --white: #a4a2a2;
+  --violet: #380d4c;
+  --violet-dark: #7b1679;
+  --light: #909092;
+  --sea: #616e74;
+}
